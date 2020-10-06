@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "6AD7BB0C",
-    "lastKnownWriteTime" : 1602024053,
-    "last_content_update" : 1602024053157,
+    "lastKnownWriteTime" : 1602024409,
+    "last_content_update" : 1602024409873,
     "path" : "~/R/mad-rtweet/rtweet-maduro.R",
     "project_path" : "rtweet-maduro.R",
     "properties" : {
-        "cursorPosition" : "44,34",
-        "scrollLine" : "31",
+        "cursorPosition" : "50,60",
+        "scrollLine" : "45",
         "tempName" : "Untitled1"
     },
     "read_only" : false,

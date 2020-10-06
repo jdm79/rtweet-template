@@ -47,9 +47,8 @@ tweets <- get_timeline("NicolasMaduro",
                        n = 3200
 )
 
-
 july_week <- tweets %>% 
-  filter(created_at > "2020-07-18" & created_at <"2020-07-25")
+  filter(created_at > "2020-07-18" & created_at <"2020-07-26")
 
 Maduro_df <- july_week  %>%
   select(created_at, screen_name, text)
