@@ -39,7 +39,6 @@ twitter_token <- create_token(
   access_token = access_token,
   access_secret = access_secret)
 
-
 ## Returns up to 3,200 statuses posted to the timelines of each of one or more specified Twitter users.
 tweets <- get_timeline("NicolasMaduro",
                        "MPPSalud",
